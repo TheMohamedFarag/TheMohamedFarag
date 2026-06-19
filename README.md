@@ -8,6 +8,23 @@
 
 ###
 
+<h3 align="left">Description</h3>
+
+###
+
+<div align="left">
+
+- I'm a 4th-year Computer Science student, focused on Data Science and AI.
+- I'm currently working on improving my Machine Learning skills through hands-on projects like Car Price Prediction.
+- I'm looking to collaborate on AI/ML projects and real-world data problems.
+- I'm currently learning Machine Learning and Data Science to become a ML Engineer.
+- Ask me about Data Science, Machine Learning, or my projects.
+- Fun fact: I enjoy turning data into simple and useful insights.
+
+</div>
+
+###
+
 <h3 align="left">Languages</h3>
 
 ###
@@ -107,14 +124,14 @@
 
 ###
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkyNWszdnZoNXIyb2JmY2YxOHJrMmRlbGNqbjV5NjBwY2Vud3h6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif"  />
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkyNWszdnZoNXIyb2JmY2YxOHJrMmRlbGNqbjV5NjBwY2Vud3h6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif"  />
 
 ###
