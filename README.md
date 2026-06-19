@@ -127,11 +127,3 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkyNWszdnZoNXIyb2JmY2YxOHJrMmRlbGNqbjV5NjBwY2Vud3h6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif"  />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheMohamedFarag/TheMohamedFarag/pacman-output/galaga-contribution-graph.svg">
-</picture>
-
-###
