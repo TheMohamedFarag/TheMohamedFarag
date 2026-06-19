@@ -51,12 +51,10 @@
   <a href="https://www.linkedin.com/in/mohamed-farag-37105134b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/mohamed_farag_.1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <a href="https://www.kaggle.com/abofarag1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="kaggle logo"  />
   </a>
-  <a href="https://www.facebook.com/share/18ncgoPHfG/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40" height="40" alt="colab logo"  />
 </div>
 
 ###
